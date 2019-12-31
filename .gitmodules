@@ -1,0 +1,9 @@
+[submodule "shadow-useragent"]
+	path = shadow-useragent
+	url = https://github.com/lobstrio/shadow-useragent.git
+[submodule "udemy"]
+	path = udemy
+	url = https://github.com/r3ap3rpy/udemy.git
+[submodule "webkit-server"]
+	path = webkit-server
+	url = https://github.com/niklasb/webkit-server.git
